@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://bitbucket.org/dacodemaniak/myjslib
+[submodule "git-workflow"]
+	path = git-workflow
+	url = git@github.com:dacodemaniak/git-workflow.git
